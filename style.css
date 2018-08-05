@@ -20,8 +20,17 @@ aside {
   margin-right: 15%;
 }
 
+#head-title {
+  padding: 0px 5px 0px 20px;
+}
+
+.navi {
+  padding: 0px 5px 0px 5px;
+}
+
 #login {
   float: right;
+  padding-right: 20px;
 }
 
 a {
